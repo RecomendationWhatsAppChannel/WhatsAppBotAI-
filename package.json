@@ -1,0 +1,17 @@
+{
+  "name": "my-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot named Zumi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.17.1"
+  },
+  "author": "adittt",
+  "license": "ISC"
+}
